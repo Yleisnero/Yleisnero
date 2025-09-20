@@ -1,6 +1,4 @@
-## Hi there! 🦊👋
-
-## 🚀 About Me
+# Hi there! 🦊👋
 
 Passionate **Full Stack Developer** 👨🏼‍💻 | Crafting tomorrow’s innovative solutions 👨🏼‍💻 | Maintaining [**travelbuddi.de**](https://travelbuddi.de) 🌍  
 
